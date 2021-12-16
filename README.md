@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A ambitious data scientist from India</h3>
-- 🔭 I’m currently working on Investment analysis
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Data Science 📑 🧾 📊 📈 📉
 - 😄 Pronouns: I dont take offence easily, bdw 🤵🏻‍♂️
 
@@ -23,7 +23,27 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samezio" alt="Samezio" /></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/asfasf" target="blank"><img src="https://img.shields.io/twitter/follow/asfasf?logo=twitter&style=for-the-badge" alt="asfasf" /></a> </p> -->
+- 🔭 I’m currently working on [Investment analysis](Investment analysis)
 
+- 🌱 I’m currently learning **Data Science 📑 🧾 📊 📈 📉**
+
+<!-- - 👯 I’m looking to collaborate on [asasf](asf) -->
+
+<!-- - 🤝 I’m looking for help with [asfas](asfasf) -->
+
+<!-- - 👨‍💻 All of my projects are available at [asfasf](asfasf) -->
+
+<!-- - 📝 I regularly write articles on [asfasf](asfasf) -->
+
+<!-- - 💬 Ask me about **asfasf** -->
+
+<!-- - 📫 How to reach me **asfasf** -->
+
+<!-- - 📄 Know about my experiences [asfasf](asfasf) -->
+
+- 😄 Pronouns: I dont take offence easily, bdw 🤵🏻‍♂️
+
+<!-- - ⚡ Fun fact **asfasf** -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
