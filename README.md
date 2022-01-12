@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science 📑 🧾 📊 📈 📉
 - 😄 Pronouns: I dont take offence easily, bdw 🤵🏻‍♂️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samezio&label=Profile%20views&color=0e75b6&style=flat" alt="Samezio" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samezio&label=Profile%20views&color=0e75b6&style=flat" alt="Samezio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samezio" alt="Samezio" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samezio" alt="Samezio" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/asfasf" target="blank"><img src="https://img.shields.io/twitter/follow/asfasf?logo=twitter&style=for-the-badge" alt="asfasf" /></a> </p> -->
 - 🔭 I’m currently working on [Investment analysis](Investment analysis)
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samezio&show_icons=true&locale=en&layout=compact" alt="Samezio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samezior&show_icons=true&locale=en" alt="Samezio" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Samezior&show_icons=true&locale=en" alt="Samezio" /></p> -->
+<br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samezio&" alt="Samezio" /></p>
 
