@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samezio" alt="Samezio" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/asfasf" target="blank"><img src="https://img.shields.io/twitter/follow/asfasf?logo=twitter&style=for-the-badge" alt="asfasf" /></a> </p> -->
-- 🔭 I’m currently working on [Investment analysis](Investment analysis)
+<!-- - 🔭 I’m currently working on [Investment analysis](Investment analysis) -->
 
-- 🌱 I’m currently learning **Data Science 📑 🧾 📊 📈 📉**
+<!-- - 🌱 I’m currently learning **Data Science 📑 🧾 📊 📈 📉** -->
 
 <!-- - 👯 I’m looking to collaborate on [asasf](asf) -->
 
