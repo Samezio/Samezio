@@ -1,22 +1,8 @@
-<!--
-**Samezio/Samezio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sameer Gupta</h1>
+<h3 align="center">A ambitious Software developer from India</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">A ambitious data scientist from India</h3>
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Data Science 📑 🧾 📊 📈 📉
-- 😄 Pronouns: I dont take offence easily, bdw 🤵🏻‍♂️
+- 🔭 I’m currently working on Chat Spring
+<!-- - 🌱 I’m currently learning Data Science 📑 🧾 📊 📈 📉 -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samezio&label=Profile%20views&color=0e75b6&style=flat" alt="Samezio" /> </p>
 
@@ -41,10 +27,8 @@ Here are some ideas to get you started:
 
 <!-- - 📄 Know about my experiences [asfasf](asfasf) -->
 
-- 😄 Pronouns: I dont take offence easily, bdw 🤵🏻‍♂️
-
 <!-- - ⚡ Fun fact **asfasf** -->
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -53,7 +37,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://codepen.io/asgasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asgasg" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/asfasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asfasf" height="30" width="40" /></a> -->
 <!-- <a href="https://twitter.com/asfasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asfasf" height="30" width="40" /></a> -->
-<!-- <a href="https://linkedin.com/in/agasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agasg" height="30" width="40" /></a> -->
+<a href="www.linkedin.com/in/sameer-gupta2233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agasg" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/asgasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asgasg" height="30" width="40" /></a> -->
 <!-- <a href="https://codesandbox.com/asgasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="asgasg" height="30" width="40" /></a> -->
 <!-- <a href="https://kaggle.com/agsasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="agsasg" height="30" width="40" /></a> -->
@@ -67,7 +51,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.codechef.com/users/trurtu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="trurtu" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/asfasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asfasf" height="30" width="40" /></a> -->
 <!-- <a href="https://codeforces.com/profile/rturtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rturtu" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/gfjgj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gfjgj" height="30" width="40" /></a> -->
+<a href="[https://www.leetcode.com/gfjgj](https://leetcode.com/u/sameer-gupta/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gfjgj" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/fgjfgj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="fgjfgj" height="30" width="40" /></a> -->
 <!-- <a href="https://auth.geeksforgeeks.org/user/fgjgj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="fgjgj" height="30" width="40" /></a> -->
 <!-- <a href="https://www.topcoder.com/members/fgjfgj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fgjfgj" height="30" width="40" /></a> -->
